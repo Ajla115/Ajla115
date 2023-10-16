@@ -65,8 +65,8 @@
  My college journey introduced me to a wealth of opportunities. From learning the basics of Object-Oriented Programming in Java to building full-stack applications using various technologies, I explored mobile app development, dived into the world of Linux, and even built my own shell. I tinkered with UI/UX principles, applying them to my web projects, and got a taste of system development life cycles.This journey has been a mix of learning, challenges, and, honestly, a rollercoaster ride. But through it all, I've grown and honed my skills. As I look back, I'm excited about what the future holds. The thrill of the unknown keeps me going, and I can't wait to see where this adventure takes me. It's been an incredible journey that's made me more skilled and resilient, and I'm eager to keep exploring.
       
 <br />
+</details>
 
-#
 #
 
 ### 🔥 GitHub Streak
