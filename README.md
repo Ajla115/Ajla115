@@ -8,11 +8,9 @@
 
 ### What I Do
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">-->
 
 🌐 **Web Programming**: Deeply interested in web development and experienced in creating interactive and dynamic websites in  HTML, CSS, JavaScript, and various web frameworks.
-
-📊 **Database Management**: Skilled in designing, optimizing, and maintaining databases for web applications and business needs.
 
 📈 **SEO & Marketing**: Passionate about Search Engine Optimization (SEO) and digital marketing strategies, continuously seeking ways to enhance a website's visibility and reach.
 
@@ -55,11 +53,15 @@
 
 ### 📊 Stats
 
- ![GitHub Streak](https://streak-stats.demolab.com?user=Ajla115&theme=cobalt&border_radius=4.5) 
+ <div style="display: flex; justify-content: space-between;">
+    <div>
+        ![Ajla115's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajla115&show_icons=true&theme=cobalt)
+    </div>
+    <div>
+        ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajla115&theme=cobalt&layout=compact)
+    </div>
+</div>
 
-<!--![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajla115&theme=cobalt&layout=compact)-->
-
-![Ajla115's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajla115&show_icons=true&theme=cobalt)
 
 #
 
@@ -67,12 +69,14 @@
  <summary><h3>👨‍💻 Ajla's Coding Journey</h3></summary>
  I started playing with code back in elementary school, and it all began with C++. I was curious about the logic behind it, and the more I dug in, the more I got hooked on the world of coding.As an IT student, I soon realized that the IT field had more to offer than just lines of code. I stumbled upon digital marketing, which piqued my interest. Eager to get the full picture, I decided to run my WordPress blog. It was a year-long adventure, covering everything from writing to SEO, and even some affiliate marketing.
  My college journey introduced me to a wealth of opportunities. From learning the basics of Object-Oriented Programming in Java to building full-stack applications using various technologies, I explored mobile app development, dived into the world of Linux, and even built my own shell. I tinkered with UI/UX principles, applying them to my web projects, and got a taste of system development life cycles.This journey has been a mix of learning, challenges, and, honestly, a rollercoaster ride. But through it all, I've grown and honed my skills. As I look back, I'm excited about what the future holds. The thrill of the unknown keeps me going, and I can't wait to see where this adventure takes me. It's been an incredible journey that's made me more skilled and resilient, and I'm eager to keep exploring.
-
-
-
-  
-
-          
+      
 <br />
+
+#
+
+### 🔥 GitHub Streak
+
+ ![GitHub Streak](https://streak-stats.demolab.com?user=Ajla115&theme=cobalt&border_radius=4.5) 
+
 
 #
