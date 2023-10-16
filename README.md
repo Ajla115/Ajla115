@@ -56,11 +56,11 @@
 
 ### 📊 Stats
 
-![Ajla115's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajla115&show_icons=true&theme=shades-of-purple)
+ ![GitHub Streak](https://streak-stats.demolab.com?user=Ajla115&theme=cobalt&border_radius=4.5) 
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Ajla115&theme=synthwave&border_radius=4.5) -->
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajla115&theme=cobalt&layout=compact)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajla115&theme=shades-of-purple&layout=compact)
+![Ajla115's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajla115&show_icons=true&theme=cobalt)
 
 #
 
