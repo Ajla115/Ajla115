@@ -1,6 +1,6 @@
 # 🦋 Ajla115
 
-**`Digital Enthusiast (Programming/Blogging/Marketing)`**
+## **`Digital Enthusiast (Programming/Blogging/Marketing)`**
 
 ### About Me
 
@@ -8,17 +8,15 @@
 
 ### What I Do
 
-🌐 **Web Programming**: I'm deeply interested in web development and have experience in creating interactive and dynamic websites. I'm well-versed in HTML, CSS, JavaScript, and various web frameworks.
+🌐 **Web Programming**: Deeply interested in web development and experienced in creating interactive and dynamic websites in  HTML, CSS, JavaScript, and various web frameworks.
 
-📊 **Database Management**: I enjoy working with databases and have experience in designing, optimizing, and maintaining databases to support web applications and business needs.
+📊 **Database Management**: Skilled in designing, optimizing, and maintaining databases for web applications and business needs.
 
-📈 **SEO & Marketing**: I have a keen interest in Search Engine Optimization (SEO) and digital marketing strategies. I'm always looking for ways to improve a website's visibility and reach.
+📈 **SEO & Marketing**: Passionate about Search Engine Optimization (SEO) and digital marketing strategies, continuously seeking ways to enhance a website's visibility and reach.
 
-📝 **Blogging**: I love writing and maintaining blogs. Sharing knowledge and insights in the tech and digital marketing space is my thing.
+📝 **Blogging**: Enthusiastic about writing and maintaining blogs, especially in the tech and digital marketing domains, sharing knowledge and insights.
 
-📷 **Content Creation**: I'm passionate about creating short videos, especially User-Generated Content (UGC). I have experience in video editing and producing engaging content.
-
-🌟 **Current Focus**: Right now, I'm improving my knowledge by working on various projects. Recently, I have finished a web project using a MERN stack, and at the moment I am working on a web project using NestJS and Angular frameworks. Feel free to explore my repositories to see what I'm up to!
+🌟 **Current Focus**:  Currently, I'm working on enhancing my knowledge through various projects, including a recent MERN stack web project and an ongoing project using NestJS and Angular frameworks. You can explore my repositories to see my latest work
 
 ### Get in Touch
 
@@ -27,7 +25,6 @@
 ---
 
 ### ⌨️ Languages and Tools
-
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
@@ -58,7 +55,7 @@
 
  ![GitHub Streak](https://streak-stats.demolab.com?user=Ajla115&theme=cobalt&border_radius=4.5) 
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajla115&theme=cobalt&layout=compact)
+<!--![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajla115&theme=cobalt&layout=compact)-->
 
 ![Ajla115's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajla115&show_icons=true&theme=cobalt)
 
@@ -66,6 +63,19 @@
 
 <details>
  <summary><h3>👨‍💻 Ajla's Coding Journey</h3></summary>
+ From the early days of elementary school, I embarked on a journey into the captivating world of programming. It all began with the curiosity to understand the logic behind the digital realm, and my first foray led me to the intriguing landscape of C++. The more I delved into it, the more I was drawn to the enchanting intricacies of coding.
+
+As I continued my academic pursuits, I realized that the IT industry held far more than just lines of code. My exploration brought me to the realm of digital marketing, a term that piqued my interest. Eager to grasp the holistic picture, I ventured into creating my own WordPress blog, a year-long endeavor that included not only writing but also delving into SEO, affiliate marketing, and the myriad facets of online presence.
+
+Simultaneously, my academic journey as an IT student opened up a world of opportunities. From grasping the principles of Object-Oriented Programming in Java to crafting full-stack applications using a spectrum of technologies, the voyage was nothing short of exhilarating. Mobile app development, Linux system exploration, and even the creation of a personal shell broadened my horizons. I dabbled in UI/UX principles, seamlessly integrating them into my full-stack web projects. Understanding the intricacies of system development life cycles further enriched my skill set.
+
+My thirst for knowledge extends to the cutting-edge realms of blockchain technology, and I've embraced the role of a product manager with enthusiasm. The journey thus far has been an amalgamation of knowledge acquisition, challenges, intriguing complexities, and, to be honest, a rollercoaster ride. Yet, at the heart of it all, the essence of growth and skill development stands out.
+
+As I reflect on this incredible journey, I look ahead with eager anticipation. There's an unmistakable thrill in the unknown, and I can't wait to see what the future holds. This journey has molded me into a more skilled and resilient individual, and it's an adventure that I cherish and eagerly embrace.
+
+Stay tuned, for the best is yet to come. 🌟
+
+
    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.       
           
           
