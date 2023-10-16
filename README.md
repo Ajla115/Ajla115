@@ -45,7 +45,7 @@
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <br>
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px; margin-top: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px; margin-top: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px; margin-top: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:10px; margin-top: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img align="left" alt="Figma" width="30px" style="padding-right:10px; margin-top: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
@@ -56,11 +56,11 @@
 
 ### 📊 Stats
 
-![Ajla115's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajla115&show_icons=true&theme=synthwave)
+![Ajla115's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajla115&show_icons=true&theme=cobalt)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Ajla115&theme=synthwave&border_radius=4.5) -->
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajla115&theme=synthwave&layout=compact)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajla115&theme=shades-of-purple&layout=compact)
 
 #
 
