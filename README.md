@@ -56,7 +56,7 @@
 
 ### 📊 Stats
 
-![Ajla115's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajla115&show_icons=true&theme=cobalt)
+![Ajla115's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajla115&show_icons=true&theme=shades-of-purple)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Ajla115&theme=synthwave&border_radius=4.5) -->
 
