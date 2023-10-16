@@ -1,6 +1,8 @@
 # 🦋 Ajla115
 
-**`Digital Enthusiast (Programming/Blogging/Marketing)`**
+<!--**`Digital Enthusiast (Programming/Blogging/Marketing)`**-->
+<span style="font-size: 24px; font-weight: bold;">Digital Enthusiast (Programming/Blogging/Marketing)</span>
+
 
 ### About Me
 
@@ -53,9 +55,11 @@
 
 ### 📊 Stats
 
+  ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajla115&theme=cobalt&layout=compact)
+  
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajla115&show_icons=true&theme=cobalt)
 
-  ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajla115&theme=cobalt&layout=compact)
+  
 
 #
 
