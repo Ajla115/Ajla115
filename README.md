@@ -45,15 +45,11 @@
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <br>
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<br>
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-<br>
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<br>
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-<br>
-<img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px; margin-top: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px; margin-top: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+<img align="left" alt="Linux" width="30px" style="padding-right:10px; margin-top: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt="Figma" width="30px" style="padding-right:10px; margin-top: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+<img align="left" alt="Canva" width="30px" style="padding-right:10px; margin-top: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
 <br />
 
 #
@@ -64,7 +60,7 @@
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Ajla115&theme=synthwave&border_radius=4.5) -->
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajla115&layout=compact)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajla115&theme=synthwave&layout=compact)
 
 #
 
