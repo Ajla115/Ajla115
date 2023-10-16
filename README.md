@@ -1,7 +1,9 @@
 # 🦋 Ajla115
 
 <!--**`Digital Enthusiast (Programming/Blogging/Marketing)`**-->
-<span style="font-size: 24px; font-weight: bold;">Digital Enthusiast (Programming/Blogging/Marketing)</span>
+<div style="background-color: #f2f2f2; padding: 10px;">
+    <span style="font-size: 24px; font-weight: bold;">Digital Enthusiast (Programming/Blogging/Marketing)</span>
+</div>
 
 
 ### About Me
