@@ -1,6 +1,6 @@
 # 🦋 Ajla115
 
-## **`Digital Enthusiast (Programming/Blogging/Marketing)`**
+**`Digital Enthusiast (Programming/Blogging/Marketing)`**
 
 ### About Me
 
@@ -63,25 +63,13 @@
 
 <details>
  <summary><h3>👨‍💻 Ajla's Coding Journey</h3></summary>
- From the early days of elementary school, I embarked on a journey into the captivating world of programming. It all began with the curiosity to understand the logic behind the digital realm, and my first foray led me to the intriguing landscape of C++. The more I delved into it, the more I was drawn to the enchanting intricacies of coding.
+ I started playing with code back in elementary school, and it all began with C++. I was curious about the logic behind it, and the more I dug in, the more I got hooked on the world of coding.As an IT student, I soon realized that the IT field had more to offer than just lines of code. I stumbled upon digital marketing, which piqued my interest. Eager to get the full picture, I decided to run my WordPress blog. It was a year-long adventure, covering everything from writing to SEO, and even some affiliate marketing.
+ My college journey introduced me to a wealth of opportunities. From learning the basics of Object-Oriented Programming in Java to building full-stack applications using various technologies, I explored mobile app development, dived into the world of Linux, and even built my own shell. I tinkered with UI/UX principles, applying them to my web projects, and got a taste of system development life cycles.This journey has been a mix of learning, challenges, and, honestly, a rollercoaster ride. But through it all, I've grown and honed my skills. As I look back, I'm excited about what the future holds. The thrill of the unknown keeps me going, and I can't wait to see where this adventure takes me. It's been an incredible journey that's made me more skilled and resilient, and I'm eager to keep exploring.
 
-As I continued my academic pursuits, I realized that the IT industry held far more than just lines of code. My exploration brought me to the realm of digital marketing, a term that piqued my interest. Eager to grasp the holistic picture, I ventured into creating my own WordPress blog, a year-long endeavor that included not only writing but also delving into SEO, affiliate marketing, and the myriad facets of online presence.
-
-Simultaneously, my academic journey as an IT student opened up a world of opportunities. From grasping the principles of Object-Oriented Programming in Java to crafting full-stack applications using a spectrum of technologies, the voyage was nothing short of exhilarating. Mobile app development, Linux system exploration, and even the creation of a personal shell broadened my horizons. I dabbled in UI/UX principles, seamlessly integrating them into my full-stack web projects. Understanding the intricacies of system development life cycles further enriched my skill set.
-
-My thirst for knowledge extends to the cutting-edge realms of blockchain technology, and I've embraced the role of a product manager with enthusiasm. The journey thus far has been an amalgamation of knowledge acquisition, challenges, intriguing complexities, and, to be honest, a rollercoaster ride. Yet, at the heart of it all, the essence of growth and skill development stands out.
-
-As I reflect on this incredible journey, I look ahead with eager anticipation. There's an unmistakable thrill in the unknown, and I can't wait to see what the future holds. This journey has molded me into a more skilled and resilient individual, and it's an adventure that I cherish and eagerly embrace.
-
-Stay tuned, for the best is yet to come. 🌟
+ Stay tuned for more🌟
 
 
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.       
-          
-          
-          
-          
-          
+  
 
           
 <br />
