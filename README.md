@@ -53,14 +53,11 @@
 
 ### 📊 Stats
 
- <div style="display: flex; justify-content: space-between;">
-    <div>
-        ![Ajla115's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajla115&show_icons=true&theme=cobalt)
-    </div>
-    <div>
-        ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajla115&theme=cobalt&layout=compact)
-    </div>
-</div>
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajla115&show_icons=true&theme=cobalt)
+
+  ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajla115&theme=cobalt&layout=compact)
+
+
 
 
 #
