@@ -1,10 +1,6 @@
 # 🦋 Ajla115
 
-<!--**`Digital Enthusiast (Programming/Blogging/Marketing)`**-->
-<div style="background-color: #f2f2f2; padding: 10px;">
-    <span style="font-size: 24px; font-weight: bold;">Digital Enthusiast (Programming/Blogging/Marketing)</span>
-</div>
-
+**`Digital Enthusiast (Programming/Blogging/Marketing)`**
 
 ### About Me
 
@@ -61,8 +57,6 @@
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajla115&show_icons=true&theme=cobalt)
 
-  
-
 #
 
 <details style="text-align: justify;">
@@ -78,6 +72,5 @@
 ### 🔥 GitHub Streak
 
  ![GitHub Streak](https://streak-stats.demolab.com?user=Ajla115&theme=cobalt&border_radius=4.5) 
-
 
 #
