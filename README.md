@@ -1,6 +1,6 @@
 # 🦋 Ajla115
 
-**`Digital Enthusiast (Programming/Blogging/Marketing)`**
+**`Digital Enthusiast (Programming/Marketing)`**
 
 ### About Me
 
@@ -10,11 +10,11 @@
 
 <!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">-->
 
-🌐 **Web Programming**: Deeply interested in web development and experienced in creating interactive and dynamic websites in ReactJS, NodeJS and other web frameworks.
+🌐 **Web Programming**: Deeply interested in web development and experienced in creating interactive and dynamic websites in HTML, CSS, JavaScript, and jQuery framework..
 
-📈 **SEO & Marketing**: Passionate about Search Engine Optimization (SEO) and digital marketing strategies, continuously seeking ways to enhance a website's visibility and reach.
+📈 **Marketing**: Passionate about Search Engine Optimization (SEO) and digital marketing strategies, continuously seeking ways to enhance a website's visibility and reach.
 
-🌟 **Current Focus**: Currently, I'm working on enhancing my knowledge through different projects, including two ongoing projects Senior Design project and Software Engineering course project. You can explore my repositories to see my latest work.
+🌟 **Current Focus**: Currently, I'm working on enhancing my programming knowledge through different projects with focus on learning ReactJS, and writing more secure backend code. You can explore my repositories to see my latest work.
 
 ### Get in Touch
 
@@ -54,9 +54,3 @@
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajla115&theme=cobalt&layout=compact)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajla115&show_icons=true&theme=cobalt)
-
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Ajla115&theme=cobalt&border_radius=4.5)
-
-#
