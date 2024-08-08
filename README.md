@@ -1,10 +1,12 @@
 # 🦋 Ajla115
 
-**`Digital Enthusiast (Programming/Marketing)`**
+**`Software Engineer`**
 
 ### About Me
 
-👋 Hi there! I'm a graduate IT student with a passion for web programming, cybersecurity, digital marketing, and content creation.
+👋 Hi there! I'm a graduate IT student with a passion for web programming, cybersecurity, and digital marketing.
+
+---
 
 ### What I Do
 
@@ -12,7 +14,7 @@
 
 🌐 **Web Programming**: Deeply interested in web development and experienced in creating interactive and dynamic websites in HTML, CSS, JavaScript, and jQuery framework..
 
-📈 **Marketing**: Passionate about Search Engine Optimization (SEO) and digital marketing strategies, continuously seeking ways to enhance a website's visibility and reach.
+📈 **Marketing**: Passionate about SEO, digital marketing strategies and content creation. Continuously seeking ways to enhance a website's visibility and reach.
 
 🌟 **Current Focus**: Currently, I'm working on enhancing my programming knowledge through different projects with focus on learning ReactJS, and writing more secure backend code. You can explore my repositories to see my latest work.
 
@@ -22,10 +24,11 @@
 
 ---
 
-### ⌨️ Languages and Tools
+### ⌨️ Skillset
+
+###  Web Programming 
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
@@ -37,7 +40,6 @@
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <br>
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px; margin-top: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
