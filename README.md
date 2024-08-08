@@ -45,9 +45,10 @@
 <img align="left" alt="Linux" width="30px" style="padding-right:10px; margin-top: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img align="left" alt="Figma" width="30px" style="padding-right:10px; margin-top: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <img align="left" alt="Canva" width="30px" style="padding-right:10px; margin-top: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
-<img align="left" alt="Canva" width="30px" style="padding-right:10px; margin-top: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
-
-
+<img align="left" alt="Aws" width="30px" style="padding-right:10px; margin-top: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+          
+          
+<br />
 
 
 
