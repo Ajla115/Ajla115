@@ -2,11 +2,11 @@
 
 **`Software Engineer`**
 
+---
+
 ### About Me
 
 👋 Hi there! I'm a graduate IT student with a passion for web programming, cybersecurity, and digital marketing.
-
----
 
 ### What I Do
 
@@ -24,9 +24,7 @@
 
 ---
 
-### ⌨️ Skillset
-
-###  Web Programming 
+### ⌨️ Programming Languages
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
@@ -42,14 +40,16 @@
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <br>
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px; margin-top: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px; margin-top: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px; margin-top: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:10px; margin-top: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img align="left" alt="Figma" width="30px" style="padding-right:10px; margin-top: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <img align="left" alt="Canva" width="30px" style="padding-right:10px; margin-top: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
-<br />
+<img align="left" alt="Canva" width="30px" style="padding-right:10px; margin-top: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
 
-#
+
+
+
 
 ### 📊 Stats
 
