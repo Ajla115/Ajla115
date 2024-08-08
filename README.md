@@ -24,8 +24,6 @@
 
 ---
 
----
-
 ### ⌨️ Programming Languages
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -41,19 +39,24 @@
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<br clear="left"/> <!-- Add this to clear the float and move the next content down -->
+<br clear="left"/> 
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px; margin-top: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px; margin-top: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:10px; margin-top: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img align="left" alt="Figma" width="30px" style="padding-right:10px; margin-top: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <img align="left" alt="Canva" width="30px" style="padding-right:10px; margin-top: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
 <img align="left" alt="Aws" width="30px" style="padding-right:10px; margin-top: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<br clear="left"/> <!-- Add another clear if needed -->
+<br clear="left"/> 
 
 ---
 
 ### 📊 Stats
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajla115&theme=cobalt&layout=compact)
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajla115&show_icons=true&theme=cobalt)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajla115&theme=cobalt&layout=compact" alt="Most used languages" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ajla115&show_icons=true&theme=cobalt" alt="GitHub stats" />
+
+</div>
+
