@@ -69,18 +69,6 @@
 | 🔒 **[Secure Software System](https://github.com/Ajla115/REPO-NAME)** | Backend hardening: 2FA, time-expiring password reset, credential-breach detection | Node.js · OWASP |
 | 🎬 **[Movies Watchlist](https://github.com/Ajla115/REPO-NAME)** | Microservices project, 90%+ backend test coverage | Java Spring · React · JUnit · Jest |
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Ajla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajla115&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajla115&layout=compact&theme=tokyonight&hide_border=true&hide=html,css)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💬 Let's Talk
