@@ -2,7 +2,7 @@
 
 # 🦋 Hi, I'm Ajla
 
-### AI Software Engineer · LLM Systems · Master's Thesis on Agentic AI
+### AI Software Engineer · LLM N8N Systems · Master's Thesis on Agentic AI
 
 *Building production-grade AI systems where human judgment and machine intelligence reinforce each other.*
 
@@ -17,12 +17,11 @@
 ## 🚀 What I'm Building Right Now
 
 - 🧠 **Master's Thesis** — Two agentic AI systems on self-hosted N8N: a customer-support chatbot (hybrid PageIndex Tree + Pinecone RAG retrieval, multi-LLM orchestration across Anthropic / OpenAI / Gemini, Telegram escalation) and a personal virtual assistant. Validated across **1,000 test cases per system**.
-- 🎥 **AI Face Recognition System** @ SETEC d.o.o. — Identifying individuals from video footage using reference images (Python, `face_recognition` / dlib).
 - 🎓 **Teaching Assistant** @ International Burch University — 2.5 years, 10+ CS courses, hundreds of students.
 
 ## 🎯 Currently Looking For
 
-**Graduate AI Software Engineer roles in the EU** — open to Milan, London, Madrid, Warsaw, or remote. Happy to relocate and spend early months on-site.
+**Graduate AI Software Engineer roles in the EU** — open to Milan, London, Barcelona, or remote. Happy to relocate and spend early months on-site.
 
 ## 🏆 Recognition
 
@@ -88,6 +87,6 @@
 
 *Always happy to chat about AI systems, agentic workflows, or how to explain recursion to a second-year student.*
 
-**[📧 Email](mailto:YOUR-EMAIL) · [💼 LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)**
+**[💼 LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)**
 
 </div>
